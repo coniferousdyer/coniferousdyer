@@ -1,4 +1,12 @@
-### Hi there 👋
+<div align="center">
+  
+# Hello there! 👋
+
+</div>
+
+<div align="center">
+My name is Arjun Muraleedharan and I'm a freshman at IIIT Hyderabad.
+</div>
 
 <!--
 **coniferousdyer/coniferousdyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
