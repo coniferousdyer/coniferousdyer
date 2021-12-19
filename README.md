@@ -10,7 +10,7 @@ My name is Arjun Muraleedharan and I'm a sophomore at IIIT Hyderabad.
 
 <br>
 
-- 🌱 I’m currently learning **Django**.
+- 🌱 I’m currently exploring **backend web development**.
 - ⚡ I like to **read a good book** and **hum to Avicii**.
 - 💬 Ask me about **anything**!
 - 📫 How to reach me: **arjun.muraleedharan@students.iiit.ac.in**
