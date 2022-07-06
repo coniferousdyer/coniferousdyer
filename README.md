@@ -1,19 +1,11 @@
-<div align="center">
-  
-# Hello there! 👋
+# Hello there 👋, I'm Arjun!
 
-</div>
+I'm a third-year undergraduate student at IIIT Hyderabad, studying Computer Science and Engineering.
 
-<div align="center">
-My name is Arjun Muraleedharan and I'm a sophomore at IIIT Hyderabad.
-</div>
-
-<br>
-
-- 🌱 I’m currently exploring **backend web development**.
-- ⚡ I like to **read a good book** and **hum to Avicii**.
-- 💬 Ask me about **anything**!
-- 📫 How to reach me: **arjun.muraleedharan@students.iiit.ac.in**
+- 🌱 I’m currently exploring machine learning.
+- ⚡ I like to read a good book and hum to Avicii.
+- 💬 Ask me about anything, I'll try to help!
+- 📫 How to reach me: arjun.muraleedharan@students.iiit.ac.in
 
 <br>
 
