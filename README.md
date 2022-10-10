@@ -12,7 +12,8 @@
 
 I'm a third-year undergraduate student at IIIT Hyderabad, studying Computer Science and Engineering.
 
-- 🌱 I’m currently exploring machine learning.
+- 🌱 I have experience with full-stack web development in JavaScript and Python.
+- 🛠 I'm always trying to learn something new!
 - ⚡ I like to read a good book and hum to Avicii.
 - 💬 Ask me about anything, I'll try to help!
 - 📫 How to reach me: arjun.muraleedharan@students.iiit.ac.in
