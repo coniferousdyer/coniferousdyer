@@ -10,4 +10,4 @@ I'm a fourth-year undergraduate student at IIIT Hyderabad, studying Computer Sci
 - 🛠 I'm always trying to learn something new!
 - ⚡ I like to read a good book and hum to Avicii.
 - 💬 Ask me about anything, I'll try to help!
-- 📫 How to reach me: arjun.muraleedharan@students.iiit.ac.in
+- 📫 How to reach me: arjunmuraleedharan0@gmail.com
