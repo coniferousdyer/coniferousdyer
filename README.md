@@ -4,12 +4,6 @@
 
 </div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/arjun-muraleedharan"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-  <a href="https://coniferousdyer.github.io/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/></a>&nbsp;
-</p>
-
-
 I'm a fourth-year undergraduate student at IIIT Hyderabad, studying Computer Science and Engineering.
 
 - 🌱 I have experience with full-stack web development in JavaScript and Python and application security.
